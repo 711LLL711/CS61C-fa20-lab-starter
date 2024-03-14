@@ -11,3 +11,5 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
+//use rediretion!file stream redirect to std io  stream
+//./int_hello<hello_input.txt`
